@@ -1,0 +1,66 @@
+@media only screen and (max-width:768px) {
+  
+  
+}
+
+
+body{
+    background-color: #1B1C31;
+}
+
+.margin{
+    margin-left: 179px;
+}
+.size{
+    font-weight: bold;
+font-size: 24px;
+color: #EBEDFA;
+margin-top: 32px;
+margin-bottom: 32px;
+}
+.border{
+    
+  position: relative;
+    display: inline;
+    color: #EBEDFA;
+    border: 2px solid #EBEDFA;
+    border-radius: 5px;
+   
+    font-size: 16px;
+ 
+    padding-top:  14px;
+    padding-bottom: 14px;
+    padding-left: 28px;
+    padding-right: 64px;
+    margin-right: 16px;
+}
+.flex{
+    position: absolute;
+    top: 16px;
+    left: 150px;
+    bottom: 20px;
+}
+.position{
+    position: relative;
+    top: 20px;
+    left: 24px;
+}
+.line{
+    border: 1px solid white;
+    padding: 0;
+
+   margin-top: 50px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.content{
+    margin-top: 34px;
+ margin-left: 113px;
+}
+.margin-top{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
